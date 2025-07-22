@@ -17,8 +17,8 @@ Welcome to my GitHub! I love building systems at the intersection of **AI, Cloud
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## ✨ About Me
-🌌 Exploring AI for research automation and in astronomy
-☁️ Certified in Cloud Computing & AWS  
+🌌 Exploring AI for research automation and in astronomy  
+☁️ Experience in Cloud Computing & AWS  
 🏆 NSS Competition Winner | Dean's List NTU  
 
 📫 **Reach me at**: mihirsunilshah@gmail.com  
