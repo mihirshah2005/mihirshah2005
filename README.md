@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mihir Shah
 
-🎓 **Computer Science Student @ NUS** | ☁️ AWS Cloud Intern | 🤖 AI Researcher | 🪐 Astronomy Enthusiast  
+**Computer Science Student @ NUS** | AI Researcher | 🪐 Astronomy Enthusiast  
 
 Welcome to my GitHub! I love building systems at the intersection of **AI, Cloud, and Automation**.  
 
