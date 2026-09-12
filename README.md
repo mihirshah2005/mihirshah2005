@@ -5,7 +5,7 @@
 Welcome to my GitHub! I love building systems at the intersection of **AI, Cloud, and Automation**.  
 
 ##  Projects I'm proud of
--  [**PaperCoder**](https://github.com/mihirshah2005/PaperCoder): Smart Research Assistant with LLM feedback loops for research automation.  
+-  [**PaperCoder**](https://github.com/mihirshah2005/Paper2Code): Smart Research Assistant with LLM feedback loops for research automation.  
 -  [**ChaosClock**](https://github.com/mihirshah2005/ChaosClock-hacknroll): Visualizing chaotic systems in time at HacknRoll 2025.  
 -  Kickstarter ML Model: Predicting project success with 82% accuracy.  
 -  Raffles Hall App: Engaging 200+ residents with a responsive web + mobile app.  
